@@ -1,0 +1,8 @@
+# scraper: tmdb
+payload: 
+  - DOMAIN-SUFFIX,fanart.tv
+  - DOMAIN-SUFFIX,tmdb.org
+
+
+
+  

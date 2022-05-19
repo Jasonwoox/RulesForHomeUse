@@ -1,0 +1,9 @@
+# for router
+# for download tools: qb/aria2
+payload: 
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,qbittorrent-nox
+  - PROCESS-NAME,aria2c
+
+
+  
