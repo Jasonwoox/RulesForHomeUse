@@ -2,3 +2,4 @@
 payload: 
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,kodi.tv
