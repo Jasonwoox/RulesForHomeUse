@@ -1,6 +1,8 @@
 # for router
 # for download tools: qb/aria2
 payload: 
+  - DOMAIN-KEYWORD,tracker
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,qbittorrent-nox
+  - PROCESS-NAME,aria2
   - PROCESS-NAME,aria2c
