@@ -2,6 +2,7 @@
 # for download tools: qb/aria2
 payload: 
   - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,annuounce
   - DOMAIN-KEYWORD,torrent
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,qbittorrent-nox
