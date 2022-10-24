@@ -1,0 +1,5 @@
+# for bluearchive jp
+payload: 
+  - DOMAIN-SUFFIX,bluearchiveyostar.com
+  - DOMAIN-SUFFIX,bluearchive.jp
+  - DOMAIN-SUFFIX,yo-star.com
